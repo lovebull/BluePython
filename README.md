@@ -18,3 +18,5 @@
 * 未安装pycurl（未解决，只是提供一种思路）安装pyspider失败：Command "python setup.py egg_info"failed with error code 10 in.....
 * [python3.6安装pyspider出现的问题（pycurl安装失败）和解决方案](http://blog.csdn.net/sinat_33487968/article/details/69421147)
 * [如何在Win7中安装Python的.whl扩展包](http://jingyan.baidu.com/article/19020a0a1f9774529d2842b7.html)E:\Python>pip install pycurl-7.43.0-cp36-cp36m-win32.whl
+
+[scrapy中文教程](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html)
