@@ -115,6 +115,7 @@ def spaceReplace(str):
 
 
 # 2021/1/11 add
+# https://blog.csdn.net/s1164548515/article/details/91430506
 #获取文件夹file_dir下指定类型file_type的所有文件名
 def file_name(file_dir,file_type=''):
     lst=[]
